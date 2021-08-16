@@ -6,7 +6,7 @@
 ##Automated deployment links:
 
     * S3 bucket: http://germes-bucket-auto.s3-website-eu-west-1.amazonaws.com/
-    * Cloudfront: d2vb4n5z25zfbd.cloudfront.net
+    * Cloudfront: https://d4049ren5zzbf.cloudfront.net/
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
